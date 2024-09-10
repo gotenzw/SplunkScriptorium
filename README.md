@@ -1,7 +1,8 @@
 # SplunkScriptorium
 in this repo you can find various scripts that can assist in splunk enterprise deployment
 
-Splunk Universal Forwarder Upgrade Script for SCCM Deployment
+
+Splunk Universal Forwarder Upgrade Script for SCCM Deployment (Splunk_UF_upgrade.bat)
 This script is designed to be deployed using SCCM (System Center Configuration Manager) to upgrade any version of Splunk Universal Forwarder (versions 6, 7, 8, or 9) to the latest version. It also includes functionality to refresh the "host" field in virtual environments, such as when virtual machines are spawned from templates where the Splunk agent is already installed.
 
 Key Features:
